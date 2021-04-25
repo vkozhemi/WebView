@@ -1,5 +1,5 @@
 ## WebView
-Android application, network. multithreading, recyclerview, Picasso library, Data storage, Realm, Fragments
+Android news application, network. multithreading, recyclerview, Picasso library, Data storage, Realm, Fragments
 
 ## Working with the network. Multithreading
 - json
