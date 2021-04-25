@@ -19,6 +19,13 @@ Android news application, network. multithreading, recyclerview, Picasso library
 ## Fragments
 - portrait and landscape orientations
 
+## Usage
+1. Clone repository:
+- git clone https://github.com/vkozhemi/WebView.git
+2. cd WebView
+3. Install apk on device, run command in terminal:
+- adb install WebNews.apk
+
 ## Example
 
 ### portrait
