@@ -18,3 +18,13 @@ Android news application, network. multithreading, recyclerview, Picasso library
 
 ## Fragments
 - portrait and landscape orientations
+
+## Example
+
+### portrait
+<img src="https://github.com/vkozhemi/WebView/blob/main/img/WebNews1.jpg" width="700">
+<img src="https://github.com/vkozhemi/WebView/blob/main/img/WebNews2.jpg" width="700">
+
+### landscape
+<img src="https://github.com/vkozhemi/WebView/blob/main/img/WebNews3.jpg" width="700">
+<img src="https://github.com/vkozhemi/WebView/blob/main/img/WebNews4.jpg" width="700">
